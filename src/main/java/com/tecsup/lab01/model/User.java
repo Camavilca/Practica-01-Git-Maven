@@ -24,4 +24,5 @@ public class User {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
+
 }
